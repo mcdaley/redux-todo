@@ -3,7 +3,7 @@
 //-----------------------------------------------------------------------------
 
 const initialState = {
-  message: `It's easy to integrate React and Redux, dude`
+  message: `It's easy to integrate React and Redux, Dude`
 }
 
 function reducer(state = initialState) {
